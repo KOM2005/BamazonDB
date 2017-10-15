@@ -8,18 +8,19 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/fredlintz5/bamazon.git"
+    "url": "git+https://github.com/KOM2005/BamazonDB.git"
   },
   "author": "Fred Lintz",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/fredlintz5/bamazon/issues"
+    "url": "https://github.com/KOM2005/BamazonDB/issues"
   },
-  "homepage": "https://github.com/fredlintz5/bamazon#readme",
+  "homepage": "https://github.com/KOM2005/BamazonDB#readme",
   "dependencies": {
     "ascii-table": "0.0.9",
     "colors": "^1.1.2",
     "inquirer": "^3.3.0",
     "mysql": "^2.15.0"
-  }
+  },
+  "devDependencies": {}
 }
