@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/KOM2005/BamazonDB.git"
+    "url": "git+https://github.com/KOM2005/BamazonDB"
   },
   "author": "Fred Lintz",
   "license": "ISC",
